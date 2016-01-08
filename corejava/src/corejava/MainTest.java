@@ -9,7 +9,7 @@ public class MainTest
 		System.out.println("attachment; filename=\"reportData.xlsx\"");
 		System.out.println("attachment; filename=\"" +s +"\"");
 		
-		File file = new File("/app/ce/excel/report/Report20160107_0445.xlsx");
+		File file = new File("/app/ce/excel/report/Report20160107_0445.xlsx11");
 		boolean val= file.delete();
 		System.out.println(val); 
 		System.out.println("jjjjjjjjjjjjjjjjjjjjjjjjjjjj");
