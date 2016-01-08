@@ -13,6 +13,6 @@ public class MainTest
 		boolean val= file.delete();
 		System.out.println(val); 
 		// yews i have added it.
-		// thats good from local
+		// thats good from local ok...i have also added...
 	}
 }
