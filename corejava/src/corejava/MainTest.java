@@ -12,6 +12,5 @@ public class MainTest
 		File file = new File("/app/ce/excel/report/Report20160107_0445.xlsx");
 		boolean val= file.delete();
 		System.out.println(val); 
-		System.out.println("jjjjjjjjjjjjjjjjjjjjjjjjjjjj");
 	}
 }
